@@ -114,6 +114,10 @@ header {
   padding: 10px;
 }
 
+.social-icon li a img {
+  width: 27px;
+}
+
 .works {
   padding: 25px;
   margin-bottom: 6em;
