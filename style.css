@@ -95,7 +95,7 @@ header {
 }
 
 .socail-media h3 {
-  color: #7f8cff;
+  color: #505fe4;
   text-transform: uppercase;
   font-style: normal;
   font-weight: 500;
@@ -112,6 +112,10 @@ header {
 
 .social-icon li {
   padding: 10px;
+}
+
+.social-icon li a img {
+  width: 27px;
 }
 
 .works {
@@ -240,7 +244,7 @@ header {
 }
 
 .action .btn:enabled:active {
-  background-color: #2230d2;
+  background-color: #1b29c8;
   color: #fff;
 }
 
